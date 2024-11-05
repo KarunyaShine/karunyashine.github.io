@@ -31,7 +31,7 @@ function App() {
       <Skill/>
       <Experience/>
       <Testmonial/>
-        {/* <Routes>
+         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/aboutme" element={<Aboutme />} />
           <Route path="/education" element={<Education />} />
@@ -39,7 +39,7 @@ function App() {
           <Route path="/experience" element={<Experience />} />
           <Route path="/testmonial" element={<Testmonial />} />
           <Route path="*" element={<Home />} />
-        </Routes> */}
+        </Routes> 
     </div>
   );
 }
