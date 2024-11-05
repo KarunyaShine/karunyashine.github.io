@@ -1,0 +1,27 @@
+.colo{
+  margin: 10px;
+position: relative;
+top: 50px;
+height: 300px;
+}
+.colo:hover{
+    background-color:#b0a9b796; 
+}
+.edu{
+  display: flex;
+  flex-direction: row;
+  text-align: justify;
+  justify-content: center;
+ height: 400px;
+  
+  background-color: rgb(151, 77, 196);
+}
+.card-body{
+ text-align: center;
+ position: relative;
+ top: 20px;
+}
+.card-body:hover{
+  transform: scale(1,1);
+  font-family: fantasy;
+}
